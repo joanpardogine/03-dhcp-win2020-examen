@@ -2,11 +2,11 @@
 
 ## Objectiu
 
-Instal·lació i configuració del **```servei de DHCP```** en un servidor **Windows 2020 Server**.
+Instal·lació i configuració del **```servei de DHCP```** en un servidor **Windows 2022 Server**.
 
 ## Eines
 
-Per tal de dur a terme la pràctica la instal·lació s'implementarà sobre una màquina **Windows 2020 Server**. També caldrà que tingueu una maquina client amb dues interfícies de xarxa.
+Per tal de dur a terme la pràctica la instal·lació s'implementarà sobre una màquina **Windows 2022 Server**. També caldrà que tingueu una maquina client amb dues interfícies de xarxa.
 
 Com a *Sistema Operatiu client* podreu fer servir qualsevol màquina virtual que tingui la possibilitat de configurar-li dues interfícies de xarxa perquè rebin la configuració de xarxa de forma automàtica.
 
